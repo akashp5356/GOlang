@@ -1,4 +1,4 @@
 # GOlang
-Go programs
-Learn Golang from basics 
-Create API's 
+Learn Golang from basics.
+Create API's.
+Convert data from CSV to Mysql & vice versa.
