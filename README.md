@@ -33,8 +33,7 @@ Create Excel from JSON data(static and dynamic)
 
 ## 12 Converting data from MYSQL to JSON
 
-## 13 Creating EXCEL from JSON data:Library used-
-go get github.com/360EntSecGroup-Skylar/excelize
+## 13 Creating EXCEL from JSON data:-Library used-go get github.com/360EntSecGroup-Skylar/excelize
 
 A complete guide to understand golang programming language, web requests, JSON and creating web APIs with mongoDB
 
