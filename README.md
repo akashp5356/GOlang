@@ -5,6 +5,9 @@ Create API's.
 
 Convert data from CSV to MySQL & vice versa.
 
+Convert data from JSON to MySQL & vice versa.
+
+Create Excel from JSON data(static and dynamic)
 
 ## 01 Introduction to golang
 
@@ -21,6 +24,17 @@ Convert data from CSV to MySQL & vice versa.
 ## 07 Building API with mongoDB
 
 ## 08 Goroutines, mutex and channel
+
+## 09 Converting data from CSV to MYSQL
+
+## 10 Converting data from MYSQL to CSV
+
+## 11 Converting data from JSON to MYSQL
+
+## 12 Converting data from MYSQL to JSON
+
+## 13 Creating EXCEL from JSON data:Library used-
+go get github.com/360EntSecGroup-Skylar/excelize
 
 A complete guide to understand golang programming language, web requests, JSON and creating web APIs with mongoDB
 
