@@ -1,0 +1,22 @@
+[
+    {
+        "rno":2,
+        "name":"A",
+        "faculty":"Science"
+    },
+    {
+        "rno":7,
+        "name":"Z",
+        "faculty":"Commerce"
+    },
+    {
+        "rno":10,
+        "name":"M",
+        "faculty":"Management"
+    },
+    {
+        "rno":17,
+        "name":"A",
+        "faculty":"Arts"
+    }
+]
